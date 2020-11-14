@@ -8,4 +8,4 @@ Terraform used to define necessary infra resources
 
 ### Kops
 
-Install kops like so:
+Install kops using the kops documentation.
